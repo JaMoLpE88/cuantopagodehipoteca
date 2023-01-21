@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 #range_years::-webkit-slider-thumb {
-  box-shadow: -455px 0 0 450px rgb(250, 204, 21);
+  box-shadow: -1000px 0 0 1000px rgb(250, 204, 21);
 }
